@@ -1,0 +1,13 @@
+srr,sample,group,background,analysis_role
+SRR24030463,CLP_03_01,TAA_CLP,TAA,primary
+SRR24030461,CLP_03_03,TAA_CLP,TAA,primary
+SRR24030455,CLP_03_10,TAA_CLP,TAA,primary
+SRR24030459,CLP_03_06,TAA_sham,TAA,primary
+SRR24030457,CLP_03_08,TAA_sham,TAA,primary
+SRR24030453,CLP_03_15,TAA_sham,TAA,primary
+SRR24030462,CLP_03_02,water_CLP,water,secondary
+SRR24030460,CLP_03_04,water_CLP,water,secondary
+SRR24030454,CLP_03_11,water_CLP,water,secondary
+SRR24030458,CLP_03_07,water_sham,water,secondary
+SRR24030456,CLP_03_09,water_sham,water,secondary
+SRR24030452,CLP_03_16,water_sham,water,secondary
